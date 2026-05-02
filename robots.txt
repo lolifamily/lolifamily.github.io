@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://lolifamily.js.org/sitemap-index.xml
